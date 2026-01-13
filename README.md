@@ -64,7 +64,7 @@ This dashboard helps stakeholders:
 
 ---
 
-Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZTMzMTIxOTgtY2NmOC00ZjBiLTk1ZGItYzE1MWYwODk1NDNjIiwidCI6ImJiODFlMDgyLTZmNzgtNDA4OS1hNmI2LTE3ODM3NzQ4ODQ0MyIsImMiOjEwfQ%3D%3D&pageName=be374f6d614ab4d9fee4)
+Dashboard can be found here: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTMzMTIxOTgtY2NmOC00ZjBiLTk1ZGItYzE1MWYwODk1NDNjIiwidCI6ImJiODFlMDgyLTZmNzgtNDA4OS1hNmI2LTE3ODM3NzQ4ODQ0MyIsImMiOjEwfQ%3D%3D&pageName=be374f6d614ab4d9fee4) | [Tableau](https://docs.google.com/presentation/d/1Pw5UUeLbQKiHOOblE0gh9ymWnNd7MeO8/edit?usp=sharing&ouid=109163333840319733277&rtpof=true&sd=true)
 
 ## 👤 Author
 Diana Khajieva 
