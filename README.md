@@ -15,7 +15,7 @@ It is suitable for **executive reporting, operational monitoring, and data analy
 ## Tools & Technologies
 - **Power BI** – Data modeling, DAX measures, interactive dashboards  
 - **Tableau** – Calculated fields, LOD expressions, advanced visualizations  
-- **PostreSQL / Data Modeling** – Data preparation & relationships 
+- **PostgreSQL / Data Modeling** – Data preparation & relationships 
 
 ---
 
